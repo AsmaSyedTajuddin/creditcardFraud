@@ -32,5 +32,7 @@ PyCaret is an open source, low-code machine learning library in Python that allo
 Installing Pycaret
 
 !pip install pycaret
+
+
 <img width="701" alt="Screenshot 2022-07-18 at 02 20 42" src="https://user-images.githubusercontent.com/100385953/179430761-5940f8da-be67-4839-a56b-ac6efae138ff.png">
 
